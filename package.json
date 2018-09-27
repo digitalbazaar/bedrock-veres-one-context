@@ -1,0 +1,29 @@
+{
+  "name": "bedrock-veres-one-context",
+  "version": "2.0.1-0",
+  "description": "Veres One Contexts (Bedrock module)",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-veres-one-context.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "http://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-veres-one-context/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-veres-one-context",
+  "dependencies": {
+    "veres-one-context": "^3.0.0"
+  },
+  "peerDependencies": {
+    "bedrock": "^1.12.0",
+    "bedrock-ledger-context": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=6.3.0"
+  }
+}
