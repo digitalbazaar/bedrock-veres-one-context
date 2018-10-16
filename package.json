@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-veres-one-context",
   "dependencies": {
-    "veres-one-context": "^4.0.0"
+    "veres-one-context": "^5.0.0"
   },
   "peerDependencies": {
     "bedrock": "^1.12.0",
