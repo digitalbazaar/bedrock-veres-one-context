@@ -1,13 +1,18 @@
 # bedrock-veres-one-context ChangeLog
 
+## 3.0.0 - 2018-10-17
+
+### Changed
+- Use veres-one-context@5.
+
 ## 2.0.0 - 2018-10-11
 
-## Changed
+### Changed
 - Use veres-one-context@4.
 
 ## 1.0.1 - 2018-10-01
 
-## Changed
+### Changed
 - Update bedrock-ledger-context peer dep.
 
 ## 1.0.0 - 2018-10-01
