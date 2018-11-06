@@ -1,5 +1,12 @@
 # bedrock-veres-one-context ChangeLog
 
+## 5.0.0 - 2018-11-06
+
+### Changed
+- **BREAKING** Use veres-one-context@7.
+- **BREAKING** Remove Continuity2017RecoveryElector.
+- **BREAKING** Add maximumElectorCount.
+
 ## 4.0.0 - 2018-11-05
 
 ### Changed
