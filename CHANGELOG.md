@@ -1,5 +1,13 @@
 # bedrock-veres-one-context ChangeLog
 
+## 6.0.0 - TBD
+
+### Added
+- DID context.
+
+### Changed
+- **BREAKING** Use veres-one-context@8.
+
 ## 5.0.0 - 2018-11-06
 
 ### Changed
