@@ -22,7 +22,7 @@
   },
   "peerDependencies": {
     "bedrock": "^1.12.0",
-    "bedrock-ledger-context": "^10.0.0"
+    "bedrock-ledger-context": "^11.0.0"
   },
   "engines": {
     "node": ">=6.3.0"
