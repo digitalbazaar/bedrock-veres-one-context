@@ -1,5 +1,13 @@
 # bedrock-veres-one-context ChangeLog
 
+## 7.0.0 - TBD
+
+### Changed
+- **BREAKING**: Replace VERES_ONE_CONTEXT_URL constant with
+  VERES_ONE_CONTEXT_V1_URL.
+- **BREAKING**: Breaking changes in did-context module update.
+- Use veres-one-context@9.
+
 ## 6.0.0 - 2019-01-04
 
 ### Added

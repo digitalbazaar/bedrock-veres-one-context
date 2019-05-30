@@ -17,12 +17,12 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-veres-one-context",
   "dependencies": {
-    "did-context": "^1.0.0",
-    "veres-one-context": "^8.0.0"
+    "did-context": "digitalbazaar/did-spec#browser-support",
+    "veres-one-context": "^9.0.0"
   },
   "peerDependencies": {
     "bedrock": "^1.12.0",
-    "bedrock-ledger-context": "^11.0.0"
+    "bedrock-ledger-context": "^12.0.0"
   },
   "engines": {
     "node": ">=6.3.0"
