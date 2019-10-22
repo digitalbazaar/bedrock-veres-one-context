@@ -1,5 +1,10 @@
 # bedrock-veres-one-context ChangeLog
 
+## 8.0.0 - 2019-10-22
+
+### Changed
+- **BREAKING**: Refactor for use with bedrock@2.
+
 ## 7.0.0 - 2019-09-09
 
 ### Changed
