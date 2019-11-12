@@ -1,6 +1,6 @@
 {
   "name": "bedrock-veres-one-context",
-  "version": "9.0.1-0",
+  "version": "9.0.1",
   "description": "Veres One Contexts (Bedrock module)",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "lib",
