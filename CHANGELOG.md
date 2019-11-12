@@ -1,6 +1,6 @@
 # bedrock-veres-one-context ChangeLog
 
-## 9.0.0 - TBD
+## 9.0.0 - 2019-11-12
 
 ### Changed
 - **BREAKING**: Use veres-one-context@10.
