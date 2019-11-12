@@ -1,5 +1,10 @@
 # bedrock-veres-one-context ChangeLog
 
+## 9.0.1 - 2019-11-12
+
+### Fixed
+- Specify peer dep bedrock-ledger-context@14.
+
 ## 9.0.0 - 2019-11-12
 
 ### Changed
