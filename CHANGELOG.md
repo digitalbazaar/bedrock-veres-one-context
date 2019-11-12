@@ -4,6 +4,7 @@
 
 ### Changed
 - **BREAKING**: Use veres-one-context@10.
+- Update dependencies.
 
 ## 8.0.0 - 2019-10-22
 

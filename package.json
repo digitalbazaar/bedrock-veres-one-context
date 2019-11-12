@@ -14,7 +14,7 @@
   "author": {
     "name": "Digital Bazaar, Inc.",
     "email": "support@digitalbazaar.com",
-    "url": "https://digitalbazaar.com"
+    "url": "https://digitalbazaar.com/"
   },
   "bugs": {
     "url": "https://github.com/digitalbazaar/bedrock-veres-one-context/issues"
@@ -25,7 +25,7 @@
     "veres-one-context": "^10.0.0"
   },
   "peerDependencies": {
-    "bedrock": "^2.0.0",
+    "bedrock": "2.0.0 - 3.x",
     "bedrock-jsonld-document-loader": "^1.0.0",
     "bedrock-ledger-context": "^13.0.0"
   },
@@ -34,6 +34,6 @@
   },
   "devDependencies": {
     "eslint": "^6.0.0",
-    "eslint-config-digitalbazaar": "^2.0.0"
+    "eslint-config-digitalbazaar": "^2.0.1"
   }
 }
