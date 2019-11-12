@@ -4,6 +4,9 @@
   "description": "Veres One Contexts (Bedrock module)",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "lib",
+  "scripts": {
+    "lint": "eslint 'lib/**.js'"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/digitalbazaar/bedrock-veres-one-context.git"
