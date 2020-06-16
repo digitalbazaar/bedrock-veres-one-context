@@ -1,5 +1,10 @@
 # bedrock-veres-one-context ChangeLog
 
+## 10.0.1 - 2020-06-16
+
+### Changed
+- Use peer bedrock-ledger-context@15.
+
 ## 10.0.0 - 2019-11-14
 
 ### Changed
