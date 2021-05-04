@@ -1,9 +1,10 @@
 # bedrock-veres-one-context ChangeLog
 
-## 11.0.0 - 202-TBD
+## 11.0.0 - TBD
 
 ### Changed
-- **BREAKING**: Use `did-context@3.0`. Context url changed from `https://w3id.org/did/v0.11` to `https://www.w3.org/ns/did/v1`.
+- **BREAKING**: Use `did-context@3.0`. Context url changed from
+  `https://w3id.org/did/v0.11` to `https://www.w3.org/ns/did/v1`.
 - Use `veres-one-context@12.0`.
 
 ## 10.0.1 - 2020-06-16
