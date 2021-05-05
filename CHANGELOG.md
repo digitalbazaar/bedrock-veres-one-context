@@ -1,6 +1,6 @@
 # bedrock-veres-one-context ChangeLog
 
-## 11.0.0 - TBD
+## 11.0.0 - 2021-05-05
 
 ### Changed
 - **BREAKING**: Use `did-context@3.0`. Context url changed from
