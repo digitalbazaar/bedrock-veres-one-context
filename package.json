@@ -22,7 +22,7 @@
   "homepage": "https://github.com/digitalbazaar/bedrock-veres-one-context",
   "dependencies": {
     "did-context": "^3.0.1",
-    "veres-one-context": "veres-one/veres-one-context#v12.x"
+    "veres-one-context": "^12.0.0"
   },
   "peerDependencies": {
     "bedrock": "2.0.0 - 4.x",

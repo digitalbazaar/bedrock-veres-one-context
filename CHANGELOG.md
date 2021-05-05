@@ -5,7 +5,7 @@
 ### Changed
 - **BREAKING**: Use `did-context@3.0`. Context url changed from
   `https://w3id.org/did/v0.11` to `https://www.w3.org/ns/did/v1`.
-- Use `veres-one-context@12.0`.
+- Use `veres-one-context@12.0`. Removed prefix/cURI usage.
 
 ## 10.0.1 - 2020-06-16
 
