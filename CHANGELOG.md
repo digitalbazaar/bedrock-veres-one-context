@@ -3,6 +3,7 @@
 ### 12.0.0 - TBD
 ### Changed
 - **BREAKING**: Set engines.node >=12.0.0.
+- **BREAKING**: Use bedrock-ledger-context@20.
 
 ## 11.0.0 - 2021-05-05
 
