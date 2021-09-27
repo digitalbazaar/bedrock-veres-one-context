@@ -1,5 +1,9 @@
 # bedrock-veres-one-context ChangeLog
 
+### 12.0.0 - TBD
+### Changed
+- **BREAKING**: Set engines.node >=12.0.0.
+
 ## 11.0.0 - 2021-05-05
 
 ### Changed
