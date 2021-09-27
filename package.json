@@ -30,7 +30,7 @@
     "bedrock-ledger-context": "^20.0.0"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=12.0.0"
   },
   "devDependencies": {
     "eslint": "^7.25.0",
