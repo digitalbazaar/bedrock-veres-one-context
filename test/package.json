@@ -16,9 +16,7 @@
     "bedrock-test": "^6.0.0",
     "bedrock-veres-one-context": "file:..",
     "cross-env": "^7.0.3",
-    "did-context": "^3.1.1",
-    "nyc": "^15.1.0",
-    "veres-one-context": "^12.0.0"
+    "nyc": "^15.1.0"
   },
   "nyc": {
     "excludeNodeModules": false,
