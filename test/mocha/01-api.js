@@ -5,7 +5,7 @@
 
 const {documentLoader} = require('bedrock-jsonld-document-loader');
 
-describe('bedrock-security-context', () => {
+describe('bedrock-veres-one-context', () => {
   it('sets up contexts properly', async () => {
     const testContextModules = [
       'did-context',
