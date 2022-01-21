@@ -4,7 +4,7 @@
 
 ### Changed
 - **BREAKING**: Set engines.node >=12.0.0.
-- **BREAKING**: Use bedrock-ledger-context@20.
+- **BREAKING**: Use bedrock-ledger-context@21.
 
 ### Added
 - Setup test.
