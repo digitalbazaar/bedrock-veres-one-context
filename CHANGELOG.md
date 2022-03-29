@@ -1,6 +1,16 @@
 # bedrock-veres-one-context ChangeLog
 
-### 12.0.0 - 2022-01-21
+## 12.1.0 - 2022-03-xx
+
+### Changed
+- Update peer deps:
+  - `bedrock@4.5`
+  - `bedrock-jsonld-document-loader@1.3`
+  - `bedrock-ledger-context@21.1`.
+- Update internals to use esm style and use `esm.js` to
+  transpile to CommonJS.
+
+## 12.0.0 - 2022-01-21
 
 ### Changed
 - **BREAKING**: Set engines.node >=12.0.0.
