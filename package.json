@@ -22,18 +22,21 @@
   "homepage": "https://github.com/digitalbazaar/bedrock-veres-one-context",
   "dependencies": {
     "did-context": "^3.0.1",
+    "esm": "^3.2.25",
     "veres-one-context": "^12.0.0"
   },
   "peerDependencies": {
-    "bedrock": "^4.0.0",
-    "bedrock-jsonld-document-loader": "^1.0.1",
-    "bedrock-ledger-context": "^21.0.0"
+    "bedrock": "^4.5.0",
+    "bedrock-jsonld-document-loader": "^1.3.0",
+    "bedrock-ledger-context": "^21.1.0"
   },
   "engines": {
     "node": ">=12.0.0"
   },
   "devDependencies": {
-    "eslint": "^7.25.0",
-    "eslint-config-digitalbazaar": "^2.8.0"
+    "eslint": "^7.32.0",
+    "eslint-config-digitalbazaar": "^2.8.0",
+    "eslint-plugin-jsdoc": "^37.9.7",
+    "jsdoc-to-markdown": "^6.0.1"
   }
 }
