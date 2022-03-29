@@ -1,6 +1,6 @@
 # bedrock-veres-one-context ChangeLog
 
-## 12.1.0 - 2022-03-xx
+## 12.1.0 - 2022-03-28
 
 ### Changed
 - Update peer deps:
