@@ -1,5 +1,18 @@
 # bedrock-veres-one-context ChangeLog
 
+## 13.0.0 - 2022-04-xx
+
+### Changed
+- **BREAKING**: Rename package to `@bedrock/veres-one-context`.
+- **BREAKING**: Convert to module (ESM).
+- **BREAKING**: Remove default export.
+- **BREAKING**: Require node 14.x.
+
+### Removed
+- **BREAKING**: Remove adding any constants to bedrock config system. If
+  constants are needed, import them from `constants` from the underlying
+  context modules.
+
 ## 12.1.0 - 2022-03-28
 
 ### Changed
