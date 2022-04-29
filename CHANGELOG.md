@@ -1,5 +1,10 @@
 # bedrock-veres-one-context ChangeLog
 
+## 14.0.1 - 2022-04-xx
+
+### Fixed
+- Fix main entry point.
+
 ## 14.0.0 - 2022-04-29
 
 ### Changed
