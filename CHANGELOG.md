@@ -1,5 +1,13 @@
 # bedrock-veres-one-context ChangeLog
 
+## 14.0.0 - 2022-04-xx
+
+### Changed
+- **BREAKING**: Update peer deps:
+  - `@bedrock/core@6`
+  - `@bedrock/jsonld-document-loader@3`
+  - `@bedrock/ledger-context@23`.
+
 ## 13.0.0 - 2022-04-03
 
 ### Changed
