@@ -6,6 +6,7 @@
 - **BREAKING**: Drop support for Node.js < 18.
 - **BREAKING**: Update peer deps:
   - Use `@bedrock/jsonld-document-loader@4`.
+  - Use `@bedrock/ledger-context@24`.
 
 ## 14.0.1 - 2022-04-29
 
