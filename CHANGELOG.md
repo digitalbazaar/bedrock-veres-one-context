@@ -1,5 +1,12 @@
 # bedrock-veres-one-context ChangeLog
 
+## 15.0.0 - 2023-09-xx
+
+### Changed
+- **BREAKING**: Drop support for Node.js < 18.
+- **BREAKING**: Update peer deps:
+  - Use `@bedrock/jsonld-document-loader@4`.
+
 ## 14.0.1 - 2022-04-29
 
 ### Fixed
