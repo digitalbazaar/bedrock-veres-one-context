@@ -8,6 +8,7 @@
   - `@bedrock/ledger-context@25`.
 - Remove `@bedrock/core` peer dep.
 - Update context and test dependencies.
+- Use `addDocuments`.
 
 ### Fixed
 - Add package `files` field.
