@@ -7,6 +7,7 @@
   - `@bedrock/jsonld-document-loader@5.1.0`.
   - `@bedrock/ledger-context@25`.
 - Remove `@bedrock/core` peer dep.
+- Update context and test dependencies.
 
 ### Fixed
 - Add package `files` field.
